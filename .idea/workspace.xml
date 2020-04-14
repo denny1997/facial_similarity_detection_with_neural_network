@@ -1,7 +1,410 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9ee908c1-6ca0-4897-aeb7-a4b65b490ddd" name="Default Changelist" comment="" />
+    <list default="true" id="9ee908c1-6ca0-4897-aeb7-a4b65b490ddd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/testing/s5/1.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/testing/s5/10.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/testing/s5/2.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/testing/s5/3.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/testing/s5/4.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/testing/s5/5.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/testing/s5/6.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/testing/s5/7.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/testing/s5/8.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/testing/s5/9.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/testing/s6/1.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/testing/s6/10.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/testing/s6/2.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/testing/s6/3.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/testing/s6/4.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/testing/s6/5.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/testing/s6/6.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/testing/s6/7.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/testing/s6/8.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/testing/s6/9.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/testing/s7/1.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/testing/s7/10.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/testing/s7/2.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/testing/s7/3.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/testing/s7/4.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/testing/s7/5.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/testing/s7/6.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/testing/s7/7.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/testing/s7/8.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/testing/s7/9.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s1/1.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s1/10.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s1/2.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s1/3.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s1/4.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s1/5.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s1/6.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s1/7.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s1/8.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s1/9.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s10/1.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s10/10.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s10/2.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s10/3.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s10/4.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s10/5.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s10/6.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s10/7.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s10/8.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s10/9.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s11/1.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s11/10.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s11/2.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s11/3.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s11/4.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s11/5.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s11/6.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s11/7.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s11/8.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s11/9.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s12/1.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s12/10.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s12/2.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s12/3.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s12/4.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s12/5.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s12/6.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s12/7.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s12/8.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s12/9.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s13/1.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s13/10.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s13/2.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s13/3.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s13/4.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s13/5.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s13/6.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s13/7.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s13/8.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s13/9.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s14/1.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s14/10.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s14/2.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s14/3.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s14/4.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s14/5.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s14/6.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s14/7.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s14/8.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s14/9.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s15/1.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s15/10.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s15/2.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s15/3.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s15/4.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s15/5.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s15/6.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s15/7.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s15/8.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s15/9.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s16/1.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s16/10.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s16/2.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s16/3.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s16/4.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s16/5.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s16/6.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s16/7.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s16/8.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s16/9.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s17/1.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s17/10.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s17/2.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s17/3.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s17/4.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s17/5.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s17/6.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s17/7.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s17/8.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s17/9.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s18/1.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s18/10.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s18/2.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s18/3.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s18/4.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s18/5.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s18/6.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s18/7.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s18/8.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s18/9.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s19/1.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s19/10.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s19/2.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s19/3.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s19/4.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s19/5.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s19/6.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s19/7.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s19/8.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s19/9.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s2/1.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s2/10.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s2/2.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s2/3.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s2/4.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s2/5.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s2/6.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s2/7.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s2/8.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s2/9.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s20/1.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s20/10.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s20/2.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s20/3.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s20/4.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s20/5.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s20/6.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s20/7.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s20/8.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s20/9.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s21/1.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s21/10.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s21/2.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s21/3.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s21/4.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s21/5.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s21/6.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s21/7.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s21/8.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s21/9.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s22/1.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s22/10.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s22/2.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s22/3.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s22/4.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s22/5.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s22/6.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s22/7.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s22/8.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s22/9.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s23/1.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s23/10.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s23/2.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s23/3.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s23/4.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s23/5.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s23/6.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s23/7.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s23/8.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s23/9.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s24/1.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s24/10.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s24/2.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s24/3.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s24/4.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s24/5.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s24/6.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s24/7.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s24/8.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s24/9.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s25/1.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s25/10.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s25/2.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s25/3.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s25/4.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s25/5.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s25/6.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s25/7.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s25/8.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s25/9.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s26/1.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s26/10.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s26/2.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s26/3.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s26/4.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s26/5.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s26/6.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s26/7.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s26/8.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s26/9.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s27/1.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s27/10.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s27/2.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s27/3.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s27/4.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s27/5.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s27/6.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s27/7.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s27/8.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s27/9.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s28/1.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s28/10.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s28/2.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s28/3.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s28/4.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s28/5.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s28/6.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s28/7.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s28/8.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s28/9.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s29/1.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s29/10.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s29/2.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s29/3.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s29/4.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s29/5.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s29/6.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s29/7.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s29/8.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s29/9.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s3/1.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s3/10.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s3/2.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s3/3.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s3/4.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s3/5.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s3/6.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s3/7.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s3/8.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s3/9.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s30/1.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s30/10.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s30/2.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s30/3.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s30/4.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s30/5.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s30/6.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s30/7.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s30/8.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s30/9.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s31/1.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s31/10.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s31/2.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s31/3.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s31/4.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s31/5.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s31/6.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s31/7.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s31/8.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s31/9.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s32/1.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s32/10.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s32/2.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s32/3.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s32/4.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s32/5.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s32/6.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s32/7.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s32/8.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s32/9.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s33/1.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s33/10.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s33/2.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s33/3.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s33/4.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s33/5.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s33/6.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s33/7.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s33/8.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s33/9.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s34/1.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s34/10.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s34/2.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s34/3.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s34/4.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s34/5.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s34/6.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s34/7.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s34/8.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s34/9.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s35/1.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s35/10.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s35/2.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s35/3.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s35/4.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s35/5.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s35/6.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s35/7.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s35/8.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s35/9.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s36/1.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s36/10.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s36/2.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s36/3.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s36/4.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s36/5.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s36/6.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s36/7.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s36/8.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s36/9.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s37/1.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s37/10.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s37/2.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s37/3.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s37/4.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s37/5.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s37/6.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s37/7.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s37/8.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s37/9.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s38/1.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s38/10.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s38/2.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s38/3.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s38/4.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s38/5.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s38/6.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s38/7.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s38/8.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s38/9.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s39/1.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s39/10.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s39/2.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s39/3.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s39/4.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s39/5.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s39/6.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s39/7.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s39/8.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s39/9.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s4/1.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s4/10.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s4/2.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s4/3.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s4/4.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s4/5.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s4/6.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s4/7.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s4/8.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s4/9.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s40/1.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s40/10.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s40/2.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s40/3.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s40/4.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s40/5.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s40/6.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s40/7.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s40/8.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s40/9.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s8/1.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s8/10.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s8/2.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s8/3.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s8/4.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s8/5.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s8/6.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s8/7.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s8/8.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s8/9.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s9/1.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s9/10.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s9/2.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s9/3.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s9/4.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s9/5.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s9/6.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s9/7.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s9/8.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces/training/s9/9.pgm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,50 +412,68 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/siamese_facial_similarity_detection$main.coverage" NAME="main Coverage Results" MODIFIED="1583810613430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/siamese_facial_similarity_detection$main.coverage" NAME="main Coverage Results" MODIFIED="1583967384897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="1789822534">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.24" value="1" />
+          <entry key="project.open.time.25" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="ini" value="1" />
-          <entry key="py" value="3" />
+          <entry key="py" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Ini" value="1" />
-          <entry key="Python" value="3" />
+          <entry key="Python" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="ini" value="33" />
-          <entry key="py" value="225" />
+          <entry key="ini" value="37" />
+          <entry key="py" value="351" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Ini" value="33" />
-          <entry key="Python" value="225" />
+          <entry key="Ini" value="37" />
+          <entry key="Python" value="351" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/util.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="46" lean-forward="true" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
+            <state relative-caret-position="152">
+              <caret line="9" column="46" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
               <folding>
                 <element signature="e#0#31#0" expanded="true" />
               </folding>
@@ -63,7 +484,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/network.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-374">
+            <state relative-caret-position="855">
               <caret line="52" column="17" selection-start-line="52" selection-start-column="17" selection-end-line="52" selection-end-column="17" />
               <folding>
                 <element signature="e#0#36#0" expanded="true" />
@@ -75,10 +496,12 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="447">
-              <caret line="81" column="56" selection-start-line="81" selection-start-column="56" selection-end-line="81" selection-end-column="56" />
+            <state relative-caret-position="190">
+              <caret line="13" column="33" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="33" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
+                <marker date="1583967315679" expanded="true" signature="410:411" ph="..." />
+                <marker date="1583967315679" expanded="true" signature="410:1586" ph="..." />
               </folding>
             </state>
           </provider>
@@ -87,8 +510,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config.ini">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="19" lean-forward="true" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+            <state relative-caret-position="95">
+              <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -102,12 +525,15 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/util.py" />
-        <option value="$PROJECT_DIR$/config.ini" />
         <option value="$PROJECT_DIR$/network.py" />
+        <option value="$PROJECT_DIR$/config.ini" />
         <option value="$PROJECT_DIR$/main.py" />
       </list>
     </option>
@@ -124,12 +550,12 @@
     <option name="width" value="1750" />
     <option name="height" value="1000" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -152,10 +578,12 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../word2vec" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
@@ -217,27 +645,27 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26340482" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32765958" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="SciView" weight="0.3297587" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info active="true" anchor="right" id="SciView" order="3" visible="true" weight="0.16353887" />
+      <window_info anchor="right" id="Database" order="4" weight="0.3297587" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -249,24 +677,17 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/util.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="46" lean-forward="true" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
+        <state relative-caret-position="152">
+          <caret line="9" column="46" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
           <folding>
             <element signature="e#0#31#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config.ini">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="19" lean-forward="true" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/network.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-374">
+        <state relative-caret-position="855">
           <caret line="52" column="17" selection-start-line="52" selection-start-column="17" selection-end-line="52" selection-end-column="17" />
           <folding>
             <element signature="e#0#36#0" expanded="true" />
@@ -274,12 +695,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/config.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="447">
-          <caret line="81" column="56" selection-start-line="81" selection-start-column="56" selection-end-line="81" selection-end-column="56" />
+        <state relative-caret-position="190">
+          <caret line="13" column="33" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="33" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
+            <marker date="1583967315679" expanded="true" signature="410:411" ph="..." />
+            <marker date="1583967315679" expanded="true" signature="410:1586" ph="..." />
           </folding>
         </state>
       </provider>
